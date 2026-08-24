@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Cauan 👋</h1> <p align="center"> Estudante de Desenvolvimento de Software | Entusiasta de Linux e sistemas de baixo nível </p>
-
-Sobre mim
+---
+## Sobre mim
 
 Sou estudante de Desenvolvimento de Software (EAD), com foco em Java, Spring e SQL, e uma paixão paralela por sistemas Linux, automação e programação de baixo nível. Gosto de entender como as coisas funcionam por baixo dos panos — seja compilando meu próprio sistema operacional do zero, seja configurando meu ambiente Linux nos mínimos detalhes.
 
