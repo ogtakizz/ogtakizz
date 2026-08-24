@@ -1,5 +1,5 @@
 ## Olá, eu sou o Cauan 👋
-## Estudante de Desenvolvimento de Software | Entusiasta de Linux e sistemas de baixo nível </p>
+### Estudante de Desenvolvimento de Software | Entusiasta de Linux e sistemas de baixo nível </p>
 
 ## Sobre mim
 
