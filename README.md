@@ -1,4 +1,5 @@
-<h1 align="left">Olá, eu sou o Cauan 👋</h1> <p align="center"> Estudante de Desenvolvimento de Software | Entusiasta de Linux e sistemas de baixo nível </p>
+## Olá, eu sou o Cauan 👋
+## Estudante de Desenvolvimento de Software | Entusiasta de Linux e sistemas de baixo nível </p>
 
 ## Sobre mim
 
